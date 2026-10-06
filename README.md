@@ -6,7 +6,7 @@ Repositório destinado à atividade do curso de Analista de Dados.
 
 O programa é uma calculadora interativa para terminal que realiza operações básicas entre dois números.
 
-### Funcionalidades
+## Funcionalidades
 - Solicita o nome do usuário.
 - Recebe dois números com validação de entrada.
 - Permite escolher entre 5 operações:
