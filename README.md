@@ -19,8 +19,8 @@ O programa é uma calculadora interativa para terminal que realiza operações b
 - Permite realizar novos cálculos em loop ou encerrar a execução ("s" para continuar, "n" para sair).
 
 ## Requisitos
-- A maquina tem que ter como sistema o Linux com a distribuição Ubuntu.
-- Funciona com WSl.
+- A maquina tem que ter como sistema operacional o Linux com a distribuição Ubuntu.
+- Também pode funcionar com WSL.
 
 ## Como Executar
 
