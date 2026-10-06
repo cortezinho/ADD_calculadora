@@ -18,6 +18,10 @@ O programa é uma calculadora interativa para terminal que realiza operações b
 - Possui validação para menu de opções e divisão por zero.
 - Permite realizar novos cálculos em loop ou encerrar a execução ("s" para continuar, "n" para sair).
 
+## Requisitos
+- A maquina tem que ter como sistema o Linux com a distribuição Ubuntu.
+- Funciona com WSl.
+
 ## Como Executar
 
 1. Clone ou baixe os arquivos "calculadora.py" e "calculadora.sh" para a sua máquina.
