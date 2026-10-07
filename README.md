@@ -31,7 +31,7 @@ O programa é uma calculadora interativa para terminal que realiza operações b
 ```
 3. De permissão de execução para o arquivo calculadora.sh com o comando:
 ```
-chmod u+rwx calcuadora.sh
+chmod u+rwx calculadora.sh
 ```
 4. Execute o arquivo calculadora.sh com o comando:
 ```
